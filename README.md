@@ -18,7 +18,7 @@ Frontend engineer in training, building user-facing software with React and Java
 
 - 🔭 Final Year Project: full-stack recommendation system in **Django + React** using SVD collaborative filtering and KMeans clustering
 - 🌱 Currently learning: **TypeScript, Docker, Redux Toolkit**
-- 💼 Looking for: **Frontend engineering internships and graduate roles (2025–2027)**
+- 💼 Looking for: **Frontend engineering internships and graduate roles (2026–2027)**
 - 📍 Based in **London, UK**
 
 ---
